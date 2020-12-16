@@ -20,3 +20,5 @@ it('should add one positive integer and character ', function () {
 it('should add two character ', function () {
     assert.equal(NaN, calculator.add('A', 'B'));
 });
+
+

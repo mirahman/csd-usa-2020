@@ -39,13 +39,13 @@ namespace DesignPatterns {
 
     public class Messenger: IObserver {
         void update(objserver) {
-            Console.writeln('');
+            Console.WriteLine('');
         }
     }
 
     public class App: IObserver {
         void update(objserver) {
-            Console.writeln('');
+            Console.WriteLine('');
         }
     }
 
